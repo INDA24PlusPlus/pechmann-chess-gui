@@ -407,7 +407,7 @@ dependencies = [
 [[package]]
 name = "chesslib"
 version = "0.1.0"
-source = "git+https://github.com/INDA24PlusPlus/moudi-chess.git#b48b78ea00e23c0498a2d00b012b561296c65421"
+source = "git+https://github.com/INDA24PlusPlus/moudi-chess.git#c35acc34f1aa1206b10512e53a8dda31ca4ee800"
 
 [[package]]
 name = "clang-sys"
